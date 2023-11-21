@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    /* Basic Options */
+    /* Opciones del compilador */
     "target": "es2015",
     /*target especifica la versión del estándar ECMAScript a la que se dirigirá el código TypeScript después de compilarse*/ 
     "module": "commonjs", 
